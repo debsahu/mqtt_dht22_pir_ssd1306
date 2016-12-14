@@ -1,4 +1,4 @@
-# mqtt_dht22_pir_ssd1306
+# MQTT Sensor for Temperature/Humidity/Presence based on NodeMCU v1.0: Arduino IDE
 NodeMCU v1.0 based Sensor connected to DHT22 for temperature, PIR for presence detection and SSD1306 OLED Display
 
 Use Arduino IDE to upload the ino
