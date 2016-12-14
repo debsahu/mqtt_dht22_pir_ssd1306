@@ -4,14 +4,14 @@ NodeMCU v1.0 based Sensor connected to DHT22 for temperature, PIR for presence d
 Use Arduino IDE to upload the ino
 
 Parts Used:
-1. NodeMCU v 1.0
-2. DHT22 Temperature Sensor
-3. HC-SR501 Passive IR Sensor (PIR)
-4. SSD 1306 128x64 OLED Display
-5. 2x 4.7k Ohm Resistor
-6. 10K Ohm Resistor
-7. Jumper Wires
-8. Reliable 5V power supply
+- NodeMCU v 1.0
+- DHT22 Temperature Sensor
+- HC-SR501 Passive IR Sensor (PIR)
+- SSD 1306 128x64 OLED Display
+- 2x 4.7k Ohm Resistor
+- 10K Ohm Resistor
+- Jumper Wires
+- Reliable 5V power supply
 
 Optional:
 - Cat 6 copper wires
