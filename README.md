@@ -20,3 +20,5 @@ Optional:
 - Project box (100x60x25mm)
 
 Things to Note: Sometimes when NodeMCU sends WiFi packets it interferes with the PIR motion sensor triggering it. This happens especially when PIR sits on top of NodeMCU inside a project box. To overcome this, we need to fold a piece of houseold aluminum foil and stick duck tape on both sides (to prevent accidental shorts). This can now be stuck on the back of PIR sensor to isolate it from false triggers.
+
+![](https://github.com/debsahu/mqtt_dht22_pir_ssd1306/raw/master/Sensor.png)
